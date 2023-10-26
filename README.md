@@ -6,9 +6,9 @@ Requirements:
 1. Install python package pytorch, numpy, pandas, matplotlib etc.
 
 2. There are four separate folders containing data sets (data generation codes) and implementation codes, where the folders are named as
-   ‘Burger's’, ‘Nagumo’ and ‘Non-homogeneous Poissons’, and ‘Allen-Cahn’.
+   ‘Burger's’, ‘Nagumo’, ‘Non-homogeneous Poissons’, and ‘Allen-Cahn’.
 
-3. Add the data (generated data) path to load the data and use the run(Main_physics) file to execute.
+3. Add the data (generated data) path to load the data and use the run(Main_physics) file to execute program.
    
 4. If you find the code helpful, please cite the paper.
 @article{navaneeth2023physics,
