@@ -1,1 +1,1 @@
-# Physics_Infromed_WNO
+# Physics_Informed_WNO
