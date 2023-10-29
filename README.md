@@ -1,4 +1,4 @@
-# Physics_Informed_WNO
+# Physics-Informed-WNO
 The repository provides Python codes for the numerical examples illustrated in the paper ‘Physics informed WNO’
 Please go through the paper to understand the implemented algorithm.
 Requirements:
