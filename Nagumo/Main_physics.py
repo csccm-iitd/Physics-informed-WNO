@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-This code belongs to the paper:
--- Tripura, T., & Chakraborty, S. (2022). Wavelet neural operator: a neural 
-   operator for parametric partial differential equations. arXiv preprint arXiv:2205.02191.
-   
-This code is for 2-D Darcy equation (time-independent problem).
-"""
 
 from IPython import get_ipython
 get_ipython().magic('reset -sf')
